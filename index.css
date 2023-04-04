@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(26, 35, 116);
+    color: rgb(221, 198, 94);
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin: 20px;
+    
+}
+
+#logo{
+    width: 50px;
+    margin: 5px;
+}
+
+.imagem{
+    display: flex;
+    justify-content: center;
+}
+
+.botão{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button{
+    background-color:rgb(221, 198, 94); 
+    color: rgb(26, 35, 116);
+    border-radius: 15px;
+    width: 300px;
+    height: 40px;
+    border-width: 1px;
+    border-color:  rgb(26, 35, 116);
+}
+
+button:hover{
+
+}
+ 
